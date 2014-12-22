@@ -39,8 +39,8 @@ node bin/serve.js 3000
 
 To test that everything is working try accessing this image in your web browser:
 
-<http://local.foobar3000.com:3000/resize/api?state=1&url=http://i.imgur.com/57RKZdJ.jpg>
-<http://local.helloworld3000.com:3000/resize/api?state=1&width=100&height=200&format=gif&quality=85&url=http://i.imgur.com/57RKZdJ.jpg>
+* <http://local.foobar3000.com:3000/resize/api?state=1&url=http://i.imgur.com/57RKZdJ.jpg>
+* <http://local.helloworld3000.com:3000/resize/api?state=1&width=100&height=200&format=gif&quality=85&url=http://i.imgur.com/57RKZdJ.jpg>
 
 The addresses `local.foobar3000.com` and `local.helloworld3000.com` are set to `127.0.0.1`
 so they will work for testing on your local machine (but not your server).
@@ -64,8 +64,8 @@ If you wanted to use a vhost instead of a domain you would set the mount to `''`
 
 In order to test on your server you will need to use your ip address or setup DNS.
 
-<http://resize.example.com/api?state=1&url=http://i.imgur.com/57RKZdJ.jpg>
-<http://example.com/resize/api?state=1&width=100&height=200&format=gif&quality=85&url=http://i.imgur.com/57RKZdJ.jpg>
+* <http://resize.example.com/api?state=1&url=http://i.imgur.com/57RKZdJ.jpg>
+* <http://example.com/resize/api?state=1&width=100&height=200&format=gif&quality=85&url=http://i.imgur.com/57RKZdJ.jpg>
 
 TODO
 ====
