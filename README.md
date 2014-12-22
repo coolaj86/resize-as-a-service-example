@@ -67,6 +67,15 @@ In order to test on your server you will need to use your ip address or setup DN
 * <http://resize.example.com/api?state=1&url=http://i.imgur.com/57RKZdJ.jpg>
 * <http://example.com/resize/api?state=1&width=100&height=200&format=gif&quality=85&url=http://i.imgur.com/57RKZdJ.jpg>
 
+Copyright and License
+===
+
+Code and documentation copyright 2014 AJ ONeal Tech, LLC.
+
+Code released under the [Apache license](https://github.com/coolaj86/resize-as-a-service/blob/master/LICENSE).
+
+Docs released under [Creative Commons](https://github.com/coolaj86/resize-as-a-service/blob/master/LICENSE.DOCS).
+
 TODO
 ====
 
