@@ -1,0 +1,26 @@
+{
+  "name": "resize-as-a-service-example",
+  "version": "1.0.0",
+  "description": "A 60-second nodejs seed project for resize-as-a-service.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ./bin/serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coolaj86/resize-as-a-service-example.git"
+  },
+  "keywords": [
+    "image",
+    "resize"
+  ],
+  "author": "AJ ONeal <coolaj86@gmail.com> (http://coolaj86.com/)",
+  "license": "Apache2",
+  "bugs": {
+    "url": "https://github.com/coolaj86/resize-as-a-service-example/issues"
+  },
+  "homepage": "https://github.com/coolaj86/resize-as-a-service-example",
+  "dependencies": {
+    "resize-as-a-service": "^1.0.0"
+  }
+}
