@@ -1,6 +1,8 @@
 resize-as-a-service-example
 ===========================
 
+Watch the [OS X ScreenCast](http://youtu.be/1goBiTf2ErA) on YouTube.
+
 A 60-second nodejs seed project for resize-as-a-service.
 
 This guide will have you run this example right on your OS X or Linux laptop
