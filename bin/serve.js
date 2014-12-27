@@ -12,7 +12,7 @@ server.listen(port, function() {
   console.log('    http://local.foobar3000.com:' + port
     + '/resize/api'
     + '?state=1'
-    + '&url=http://i.imgur.com/57RKZdJ.jpg'
+    + '&url=http://i.imgur.com/qqpxDmJ.jpg'
   );
   console.log('    http://local.foobar3000.com:' + port
     + '/resize/api'
@@ -21,7 +21,7 @@ server.listen(port, function() {
     + '&height=300'
     + '&format=gif'
     + '&quality=85'
-    + '&url=http://i.imgur.com/57RKZdJ.jpg'
+    + '&url=http://i.imgur.com/qqpxDmJ.jpg'
   );
 
   console.log('');
