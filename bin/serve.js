@@ -7,6 +7,7 @@ var http = require('http')
 
 server.listen(port, function() {
   console.log('Listening on http://localhost:' + port);
+  console.log('');
   
   console.log('Test these links in your browser:');
   console.log('    http://local.foobar3000.com:' + port
