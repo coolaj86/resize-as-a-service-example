@@ -1,13 +1,19 @@
 resize-as-a-service-example
 ===========================
 
-Watch the [OS X ScreenCast](http://youtu.be/1goBiTf2ErA) on YouTube.
-
 A 60-second nodejs seed project for resize-as-a-service.
 
 This guide will have you run this example right on your OS X or Linux laptop
 with zero modifications and then tell you what you need to modify to run it
 in your own service on a Digital Ocean VPS.
+
+ScreenCast
+==========
+
+Watch the [OS X ScreenCast](http://youtu.be/1goBiTf2ErA) on YouTube.
+
+Walkthrough
+===========
 
 If you don't have the basic development tools installed (git, node, npm, gcc) already,
 just run this script and it will install the basics on any recent version of ubuntu or osx.
