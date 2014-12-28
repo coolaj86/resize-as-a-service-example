@@ -7,10 +7,14 @@ This guide will have you run this example right on your OS X or Linux laptop
 with zero modifications and then tell you what you need to modify to run it
 in your own service on a Digital Ocean VPS.
 
-ScreenCast
+ScreenCasts
 ==========
 
 Watch the [OS X ScreenCast](http://youtu.be/1goBiTf2ErA) on YouTube.
+
+Watch the [Setup a Digital Ocean VPS ScreenCast](http://youtu.be/ypjzi1axH2A) on YouTube.
+
+Watch the [Ubuntu VPS ScreenCast](http://youtu.be/cgY7JPp8VAg) on YouTube.
 
 Walkthrough
 ===========
