@@ -1,7 +1,7 @@
 resize-as-a-service-example
 ===========================
 
-A 60-second nodejs seed project for resize-as-a-service.
+A 60-second nodejs seed project for [resize-as-a-service](https://github.com/coolaj86/resize-as-a-service).
 
 This guide will have you run this example right on your OS X or Linux laptop
 with zero modifications and then tell you what you need to modify to run it
