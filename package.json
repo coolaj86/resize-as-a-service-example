@@ -22,6 +22,6 @@
   "homepage": "https://github.com/coolaj86/resize-as-a-service-example",
   "dependencies": {
     "connect": "^3.3.3",
-    "resize-as-a-service": "^1.0.0"
+    "resize-as-a-service": "1.0.1-vips"
   }
 }
