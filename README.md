@@ -12,6 +12,10 @@ ScreenCast
 
 Watch the [OS X ScreenCast](http://youtu.be/1goBiTf2ErA) on YouTube.
 
+Watch the [Setup a Digital Ocean VPS ScreenCast](http://youtu.be/ypjzi1axH2A) on YouTube.
+
+Watch the [Ubuntu VPS ScreenCast](http://youtu.be/cgY7JPp8VAg) on YouTube.
+
 Walkthrough
 ===========
 
