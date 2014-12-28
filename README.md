@@ -18,15 +18,26 @@ Walkthrough
 If you don't have the basic development tools installed (git, node, npm, gcc) already,
 just run this script and it will install the basics on any recent version of ubuntu or osx.
 
+Install development tools (node, gcc, etc)
+
 ```bash
-# Ubuntu and OS X
+# Ubuntu 14.04+ and OS X 10.6+ (Snow Leopard and up)
 curl -fsSL bit.ly/easy-install-node | bash
 
-# On older versions of Ubuntu
+# On Ubuntu 12.04
 wget -nv bit.ly/easy-install-node -O - | bash
+
+# Not supported on OS X 10.5- or Ubuntu 10.04-
 ```
 
-You'll need graphicsmagick and or imagemagick installed
+Install image manipulation tools
+
+```bash
+# Ubuntu, Linux, and OS X
+curl -fsSL http://bit.ly/install-libvips | sudo bash
+```
+
+You may also want graphicsmagick and or imagemagick installed
 
 ```bash
 # OS X
@@ -41,6 +52,7 @@ And now you're ready to run the example
 ```bash
 git clone git@github.com:coolaj86/resize-as-a-service-example.git
 pushd resize-as-a-service-example/
+git checkout production
 npm install
 node bin/serve.js 3000
 ```
