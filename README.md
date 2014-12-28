@@ -50,7 +50,7 @@ sudo apt-get install graphicsmagick imagemagick
 And now you're ready to run the example
 
 ```bash
-git clone git@github.com:coolaj86/resize-as-a-service-example.git
+git clone https://github.com/coolaj86/resize-as-a-service-example.git
 pushd resize-as-a-service-example/
 git checkout production
 npm install
