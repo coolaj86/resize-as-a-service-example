@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/coolaj86/resize-as-a-service-example",
   "dependencies": {
+    "bluebird": "^2.4.3",
     "connect": "^3.3.3",
+    "request": "^2.51.0",
     "resize-as-a-service": "1.0.1-vips"
   }
 }
