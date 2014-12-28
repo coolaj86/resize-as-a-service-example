@@ -30,13 +30,6 @@ wget -nv bit.ly/easy-install-node -O - | bash
 # Not supported on OS X 10.5- or Ubuntu 10.04-
 ```
 
-Install image manipulation tools
-
-```bash
-# Ubuntu, Linux, and OS X
-curl -fsSL http://bit.ly/install-libvips | sudo bash
-```
-
 You may also want graphicsmagick and or imagemagick installed
 
 ```bash
@@ -44,7 +37,14 @@ You may also want graphicsmagick and or imagemagick installed
 brew install graphicsmagick imagemagick
 
 # Ubuntu
-sudo apt-get install graphicsmagick imagemagick
+sudo apt-get install -y graphicsmagick imagemagick
+```
+
+Install image manipulation tools
+
+```bash
+# Ubuntu, Linux, and OS X
+curl -fsSL http://bit.ly/install-libvips | sudo bash
 ```
 
 And now you're ready to run the example
