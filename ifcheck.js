@@ -16,7 +16,7 @@ function checkip(ip) {
 }
 
 function getExternalIp() {
-  return request({ url: 'http://checkip.hellabit.com' }).spread(function (req, data) {
+  return request({ url: 'https://api.ipify.org' }).spread(function (req, data) {
     return checkip(data) && data;
   });
 }
